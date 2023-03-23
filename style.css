@@ -1,0 +1,13 @@
+body{
+ background: url(https://www.salirconarte.com/wp-content/uploads/2017/06/orig_64571-750x430.jpg);   
+ background-repeat: no-repeat;
+ background-size: cover;
+ text-align: center;
+}
+canvas{
+    background: white;
+    border: ridge rgb(4, 227, 153) 10px;
+}
+h1{
+    color: white;
+}
